@@ -112,8 +112,8 @@ def run_split():
 
 # Janela principal com tema escuro
 window = ttk.Window(themename="cyborg")
-window.title("Cortar PDF em Faixas")
-window.geometry("520x480")
+window.title("PDF-slicer")
+window.geometry("520x460")
 window.resizable(False, False)
 
 # Variáveis de estado

@@ -1,6 +1,10 @@
-# CutPdf
+# PDF-slicer
 
 Este aplicativo permite cortar arquivos PDF em faixas verticais e/ou horizontais, gerando novos PDFs com as partes selecionadas. É útil para dividir grandes folhas em pedaços menores, como para impressão ou manipulação de projetos técnicos.
+
+# PDF-slicer (English)
+
+This application allows you to slice PDF files into vertical and/or horizontal strips, generating new PDFs with the selected parts. It's useful for splitting large sheets into smaller pieces, such as for printing or handling technical drawings.
 
 ## Funcionalidades
 - **Selecionar PDF de entrada:** Escolha o arquivo PDF que deseja cortar.
