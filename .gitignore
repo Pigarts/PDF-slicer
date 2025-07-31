@@ -1,7 +1,33 @@
+# Arquivos Python
+*.pyc
+__pycache__/
 
+# Diretórios de build do PyInstaller ou similares
 build/
 dist/
-out/
-bin/
-obj/
-app.spec
+*.spec
+
+# Diretórios temporários
+*.log
+*.tmp
+*.bak
+
+# Ambiente virtual
+venv/
+.env/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos PDF gerados
+*.pdf
+
+# Configurações do VSCode
+.vscode/
+
+# Arquivos de notebook
+*.ipynb
+
+# Outros
+*.swp
